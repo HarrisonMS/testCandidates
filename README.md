@@ -51,7 +51,7 @@ A valid output for the above input would be:
 `"KittenService, Ice, Cyberportal, Leetmeme, CamelCaser, Fraudstream"`
 ```
 
-#### INVALID INPUT EXAMPLE 3
+#### INVALID INPUT EXAMPLE 
 The following input should be rejected because it contains a cycle :
 ```js
 Leetmeme -> Cyberportal -> Ice -> Leetmeme

@@ -8,6 +8,6 @@
     },
     "dependencies": {
         "cyprus": "^1.0.0",
-        "jest": "^23.5.0"
+        "jest": "^29.3.1"
     }
 }
